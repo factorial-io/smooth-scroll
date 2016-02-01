@@ -8,5 +8,7 @@
 	"description": "Animate scrolling to anchor links",
   "repository": "factorial-io/smooth-scroll",
 	"license": "MIT",
-	"scripts": "./dist/js/smooth-scroll.js"
+	"scripts": [
+		"./dist/js/smooth-scroll.js"
+	]
 }
