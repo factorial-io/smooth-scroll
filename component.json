@@ -1,12 +1,12 @@
 {
 	"name": "smooth-scroll",
-	"version": "8.0.0",
+	"version": "8.0.1",
 	"author": {
 		"name": "Chris Ferdinandi",
 		"url": "http://gomakethings.com"
 	},
 	"description": "Animate scrolling to anchor links",
-  "repository": "cferdinandi/smooth-scroll",
+  "repository": "factorial-io/smooth-scroll",
 	"license": "MIT",
 	"scripts": "./dist/js/smooth-scroll.js"
 }
